@@ -170,7 +170,6 @@ if df is not None:
         x='Actual_Lead_Time',
         y='Predicted_Lead_Time',
         color='Predicted_Disruption',
-        trendline="ols",
         title="Actual vs Predicted Delivery Lead Time",
         template="plotly_dark"
     )
