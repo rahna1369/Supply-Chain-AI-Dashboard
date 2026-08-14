@@ -1,7 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 streamlit
 joblib
 pandas
 numpy
 plotly
-torch
 scikit-learn==1.5.1
