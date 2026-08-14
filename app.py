@@ -47,19 +47,7 @@ class TunableClassifier(nn.Module):
 # ==========================================
 # 2. Page Configuration & Styling
 # ==========================================
-st.set_page_config(page_title="Supply Chain AI Dashboard", layout="wide")
 
-st.markdown("""
-<style>
-    .stApp { background-color: #0d1117; color: #e6edf3; }
-    div[data-testid="stMetric"] {
-        background-color: #161b22;
-        border: 1px solid #30363d;
-        padding: 16px;
-        border-radius: 10px;
-    }
-</style>
-""", unsafe_allow_html=True)
 
 # ==========================================
 # 3. Load Trained Pipeline safely
