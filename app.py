@@ -6,6 +6,7 @@ import plotly.express as px
 import streamlit as st
 import torch
 import torch.nn as nn
+torch.set_num_threads(1)
 
 # ==========================================
 # 1. PyTorch Neural Network Architectures
