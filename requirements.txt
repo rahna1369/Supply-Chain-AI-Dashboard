@@ -4,4 +4,4 @@ pandas
 numpy
 plotly
 torch
-scikit-learn
+scikit-learn==1.5.1
