@@ -5,5 +5,4 @@ joblib
 pandas
 numpy
 plotly
-statsmodels
 scikit-learn==1.5.1
