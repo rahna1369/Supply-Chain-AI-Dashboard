@@ -32,3 +32,9 @@ Global supply chains frequently face bottlenecks, unpredictable port delays, and
 ├── final_lstm_model.pth        # Saved PyTorch LSTM model weights
 ├── all_models_predictions.csv  # Evaluated prediction dataset with shipment metadata
 └── README.md                   # Full project documentation
+
+---
+
+## 📖 Conclusion
+
+This project delivers an end-to-end predictive analytics solution for modern logistics management. By combining hyperparameter-tuned XGBoost with deep learning PyTorch LSTM models, the system transforms supply chain management from reactive problem-solving to proactive disruption prevention. The interactive Streamlit dashboard enables logistics planners to identify high-risk shipment routes early, optimize delivery timelines, and eliminate costly operational bottlenecks.
