@@ -24,6 +24,17 @@ Global supply chains frequently face bottlenecks, unpredictable port delays, and
   ---
 ## 📂 Repository Structure
 
+
+```text
+Supply-Chain-Delay-Prediction/
+├── app.py                      # Main Streamlit web application file
+├── requirements.txt            # Python environment dependencies
+├── supply_chain_models.joblib  # Serialized XGBoost model, scalers, and encoders
+├── final_lstm_model.pth        # Saved PyTorch LSTM model weights
+├── all_models_predictions.csv  # Evaluated prediction dataset
+└── README.md                   # Full project documentation
+```
+
 '''text
 ├── app.py                      # Main Streamlit web application file
 ├── requirements.txt            # Python environment dependencies
