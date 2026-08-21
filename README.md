@@ -21,11 +21,11 @@ Global supply chains frequently face bottlenecks, unpredictable port delays, and
 * **Data Pipelines:** Pandas, NumPy
 * **Deployment & Control:** GitHub, Streamlit Community Cloud, Joblib
 
----
+  ---
 
 ## 📂 Repository Structure
 
-```text
+
 ├── app.py                      # Main Streamlit web application file
 ├── requirements.txt            # Python environment dependencies
 ├── supply_chain_models.joblib  # Serialized XGBoost model, scalers, and encoders
@@ -38,3 +38,9 @@ Global supply chains frequently face bottlenecks, unpredictable port delays, and
 ## 📖 Conclusion
 
 This project delivers an end-to-end predictive analytics solution for modern logistics management. By combining hyperparameter-tuned XGBoost with deep learning PyTorch LSTM models, the system transforms supply chain management from reactive problem-solving to proactive disruption prevention. The interactive Streamlit dashboard enables logistics planners to identify high-risk shipment routes early, optimize delivery timelines, and eliminate costly operational bottlenecks.
+
+
+
+
+
+
